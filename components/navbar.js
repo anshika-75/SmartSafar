@@ -9,11 +9,13 @@ function navbar(){
         <a href="index.html"><img src="../images/logo.png" alt="" id="indexA"></a>
     </div>
     <div>
-        <a href="product.html">Travelling Places</a>
+        <a href="product.html">Destinations</a>
         <a href="#">Partner With Us</a>
-        <a href="#">Downlaod App</a>
+        <a href="#">Safety</a>
         <a href="#">Installment</a>
         <a href="booking.html">My Booking</a>
+        <a href="#">Meal Choice</a>
+        <a href="#">Pet Preference</a>
     </div>
     <div id="last">
         <ion-icon name="person-circle-outline"></ion-icon>
@@ -71,7 +73,7 @@ function footer(){
 <hr class="lastHR">
 <div class="final">
     <p>Privacy Policy</p>
-    <p>Copyright &#169;2023 Alcazar </p>
+    <p>Copyright &#169;2k24 Smart Safar</p>
 </div>`
 }
 export {navbar, menuBar, footer}
