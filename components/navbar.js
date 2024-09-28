@@ -14,7 +14,7 @@ function navbar(){
         <a href="#">Safety</a>
         <a href="#">Installment</a>
         <a href="booking.html">My Booking</a>
-        <a href="#">Meal Choice</a>
+        <a href="https://filtermeal.netlify.app/">Meal Choice</a>
         <a href="#">Pet Preference</a>
     </div>
     <div id="last">
